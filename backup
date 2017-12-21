@@ -1,0 +1,29 @@
+<table id="table-checkout">
+	<thead>
+		<tr>
+			<th>Image</th>
+			<th>Game</th>
+			<th>Discription</th>
+			<th>Total</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Fifa 18</td>
+			<td>Fifa 18</td>
+			<td>Fifa 18</td>
+			<td>&euro; 39,99</td>
+		</tr>
+		<tr>
+			<td>Minecraft</td>
+			<td>Minecraft</td>
+			<td>Minecraft</td>
+			<td>&euro; 24,99</td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="4">&euro; 64,98</td>
+		</tr>
+	</tfoot>
+</table>
